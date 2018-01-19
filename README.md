@@ -4,7 +4,7 @@ Mobile application connected to DialogFlow services. This demo was part of a Lun
 
 To run the project just run the comand `pod install` and add your API access token on delegate file.
 
-## Technolgies
+## Technologies
 
 - Swift
 - Cocoapods
