@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         let configuration = AIDefaultConfiguration()
-        configuration.clientAccessToken = ""
+        configuration.clientAccessToken = "YOUR_API_KEY"
         
         let apiai = ApiAI.shared()
         apiai?.configuration = configuration
